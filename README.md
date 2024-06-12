@@ -19,9 +19,6 @@
 
 </div>
 
-###
-
-![santokidiya17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santokidiya17&theme=radical&hide_border=true)
 
 ###
 
@@ -30,3 +27,7 @@
 ###
 
 ![santokidiya17's Stats](https://github-readme-stats.vercel.app/api?username=santokidiya17&theme=radical&show_icons=true&hide_border=true&count_private=false)
+
+###
+
+![santokidiya17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santokidiya17&theme=radical&hide_border=true)
