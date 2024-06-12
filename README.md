@@ -7,7 +7,7 @@
 
 ###
 
-<h5 align="left">🎀 Hey, Myself Vidisha Bhagiya.<br>🎯   I’m currently pursuing B.tech CSE <br>🌸 Fun with learn</h5>
+<h5 align="left">🎀 Hey!! I'm Diya Santoki.<br>🎯   I’m currently studying B.tech CSE <br>🌸 enjoy with learn</h5>
 
 ###
 
